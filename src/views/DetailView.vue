@@ -45,7 +45,7 @@ export default {
     
     const router = useRouter();
     const back = () => {
-      router.push('/page-ghibli/');
+      router.push('/');
     }
     return {      
       id,
